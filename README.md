@@ -1,5 +1,5 @@
 # TimeSeriesForcating
-In this notebook, we'll be understanding Data Anlaytics,EDA and TS Forecasting in great detail
+In this notebook, we'll be understanding Data Anlaytics,EDA and TS Forecasting in great detail.
 
 ## Problem Statement
 Unicorn Investors wants to make an investment in a new form of transportation - JetRail. JetRail uses Jet propulsion technology to run 
